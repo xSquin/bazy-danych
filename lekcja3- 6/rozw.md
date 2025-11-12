@@ -41,4 +41,3 @@ SELECT * FROM zasob WHERE rodzaj IS NULL;
 SELECT DISTINCT nazwa FROM zasob WHERE nazwa LIKE 'Ba%' OR nazwa like '%os' ORDER BY nazwa ASC;
 
 ```
-```
